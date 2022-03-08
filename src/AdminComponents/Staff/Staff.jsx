@@ -12,10 +12,10 @@ const Staff = () => {
         <div className={Style.staff_formMain}>
           <div className="m-2 d-flex justify-content-center align-items-center">
             <div className={Style.staff_list}>
-              <h2>၀န်ထမ်းစာရင်းသွင်းရန်စာမျက်နှာ</h2>
+              <h2>၀န်ထမ်းစာရင်းသွင်းရန်စာမျက်နှာ </h2>
             </div>
           </div>
-
+{/* <span>OK</span> */}
           <Form>
             <FormGroup className="d-flex justify-content-center align-items-center">
               <Label for="name" className="m-2 w-25">
